@@ -22,6 +22,12 @@ A sleek, fully standalone billing system designed for QBCore roleplay servers �
 
 ----------------------------------------------------------------
 
+🔧 Install
+  1. Place skr-karma-billing in resource folder
+  2. open server.cfg and ensure skr-karma-billing ( just needs to be after qbcore )
+
+----------------------------------------------------------------
+
 🔧 Dependencies
 
 
