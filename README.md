@@ -13,11 +13,10 @@ A sleek, billing system designed for karma-billing users — brought to life wit
 
 🔹 Cancel button to back out with ease 🛑
 
-🔹 Uses oxmysql to write into a persistent bills database table
+🔹 Uses oxmysql to write into a karma-billing database table
 
 🔹 Automatically sets bill status to unpaid
 
-🔹 Modular and lightweight – no reliance on locked scripts
 
 [  Preview](https://streamable.com/2mni0p)
 
