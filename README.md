@@ -18,7 +18,10 @@ A sleek, fully standalone billing system designed for QBCore roleplay servers �
 
 🔹 Modular and lightweight – no reliance on locked scripts
 
+[  Preview](https://streamable.com/2mni0p)
+
 ----------------------------------------------------------------
+
 🔧 Dependencies
 
 
