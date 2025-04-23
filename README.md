@@ -1,5 +1,5 @@
 💸 skr-karma-billing | QBCore Billing Command w/ ox_lib Integration 💼
-A sleek, fully standalone billing system designed for karma-billing users — brought to life with 🔥 modern UI via ox_lib, database integration via oxmysql, and the convenience of a single /newfine command for fast ticketing or financial enforcement. No more clunky exports or limited UI dialogs -- 0.00ms ⚡
+A sleek, billing system designed for karma-billing users — brought to life with 🔥 modern UI via ox_lib, database integration via oxmysql, and the convenience of a single /newfine command for fast ticketing or financial enforcement. No more clunky exports or limited UI dialogs -- 0.00ms ⚡
 
 ✨ Features
 
