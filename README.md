@@ -8,7 +8,7 @@ A sleek, fully standalone billing system designed for QBCore roleplay servers �
 
 🔹 Script automatically grabs the citizen ID using the entered player ID
 
-🔹 Only accessible to whitelisted jobs: police, ambulance, mechanic, bennys, towtruck
+🔹 Only accessible to whitelisted jobs: police, ambulance, mechanic, bennys, towtruck -- Add or delete any in the client.lua
 
 🔹 Cancel button to back out with ease 🛑
 
@@ -18,12 +18,10 @@ A sleek, fully standalone billing system designed for QBCore roleplay servers �
 
 🔹 Modular and lightweight – no reliance on locked scripts
 
+----------------------------------------------------------------
 🔧 Dependencies
-karma-billing 💼 (Database structure dependency only)
-
+karma-billing - https://karmadevelopments.shop/product/billing-invoices-system
 ox_lib
-
 oxmysql
-
-QBCore Framework
+QBCore
 
