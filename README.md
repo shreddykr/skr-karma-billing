@@ -21,7 +21,13 @@ A sleek, fully standalone billing system designed for QBCore roleplay servers â€
 ----------------------------------------------------------------
 ðŸ”§ Dependencies
 karma-billing - https://karmadevelopments.shop/product/billing-invoices-system
+
+
 ox_lib
+
+
 oxmysql
+
+
 QBCore
 
