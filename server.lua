@@ -34,3 +34,16 @@ RegisterServerEvent('skr-karma-billing:submitFineWithId', function(fineType, ass
         })
     end)
 end)
+
+Citizen.CreateThread(function()
+    print("\27[32m") -- Green text
+    print([[
+
+    /)  /)  ~ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+   ( •-• )  ~ ♡ Thank you for installing   ♡
+   /づづ    ~  ♡  skr-karma-billing! ♡          ♡
+             ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+    ]])
+    print("\27[0m") -- Reset text color
+end)
